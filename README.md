@@ -14,5 +14,5 @@
 * https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 ## 자바스크립트 일반
-### You Don't Know JS
-* https://github.com/getify/You-Dont-Know-JS
+ * You Don't Know JS https://github.com/getify/You-Dont-Know-JS
+ * Do expression https://babeljs.io/docs/plugins/transform-do-expressions/
