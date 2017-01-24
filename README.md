@@ -16,3 +16,7 @@
 ## 자바스크립트 일반
  * You Don't Know JS https://github.com/getify/You-Dont-Know-JS
  * Do expression https://babeljs.io/docs/plugins/transform-do-expressions/
+
+## study
+ * Top JavaScript Frameworks & Topics to Learn in 2017 https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.jkyk8y7br
+ 
