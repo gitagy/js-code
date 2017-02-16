@@ -20,6 +20,7 @@
  * 함수형 자바스크립트 소개 https://github.com/cojamm2/functional-javascript-1/wiki/
  * Pointfree Javascript http://lucasmreis.github.io/blog/pointfree-javascript/
  * Refactoring to compose https://glebbahmutov.com/blog/refactoring-to-compose/
+ * functional way https://jsleao.wordpress.com/2015/02/20/a-defense-of-functional-javascript/
  * Ramda.js 에서 무슨 함수를 사용할까? https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F
  * 스칼라 참고 사항
    * S-99: Ninety-Nine Scala Problems http://aperiodic.net/phil/scala/s-99/
